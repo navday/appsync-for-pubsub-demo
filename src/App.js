@@ -12,7 +12,6 @@ import awsconfig from './aws-exports';
 
 API.configure(awsconfig)
 
-
 const Counter = (props) => {
 
   const [value, setValue] = useState(0)
