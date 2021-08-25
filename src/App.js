@@ -1,5 +1,5 @@
 import React, { useEffect, useState} from 'react';
-import Slider from 'rc-slider';
+
 import API, { graphqlOperation } from '@aws-amplify/api'
 
 import * as subscriptions from './graphql/subscriptions'
