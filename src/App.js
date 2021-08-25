@@ -6,7 +6,6 @@ import * as subscriptions from './graphql/subscriptions'
 import * as mutations from './graphql/mutations'
 
 import './App.css';
-
 import 'rc-slider/assets/index.css';
 
 import awsconfig from './aws-exports';
